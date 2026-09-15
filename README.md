@@ -32,4 +32,4 @@ A central hub for some of my experimental browser-based audio tools, sequencers,
 ## Experiments & Miscellaneous
 
 *   **[electric-cafe](https://github.com/josev2046/electric-cafe)**
-    A collection of experiments and sound explorations with my synths.
+    A misc. collection of jotted notes, experiments and sound explorations.

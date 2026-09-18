@@ -2,9 +2,12 @@
 
 A central hub for my experimental audio tools, sequencers, and MIDI utilities. Built primarily with the Web Audio API, these projects explore generative sound design, sequencing, and synthesis natively in the browser. 
 
-*Note: Several projects now feature a **DAW iteration** with WAV recording and experimental MIDI capabilities. The groovebox (SQ_2046) and drum machine (VW-D16) also support individual stem and master export.*
+*Note: Several projects now feature a **DAW iteration** with WAV recording and experimental MIDI capabilities. The groovebox (SQ_2046), drum machine (VW-D16), and the analogue engine (VW-DS10) also support individual stem and master export.*
 
 ## Sequencers & Synthesisers
+
+*   **[VW-DS10](https://github.com/josev2046/VW-DS10)** | **[Live DAW Environment](https://josev2046.github.io/VW-DS10/)**
+    A dual-oscillator subtractive synthesiser and 4-part drum machine paying homage to the legendary KORG DS-10. It features a fully modular patch bay, an X/Y Kaoss performance pad, and phase-locked stem exporting.
 
 *   **[SQ_12](https://github.com/josev2046/SQ_12)** | **[DAW Iteration](https://josev2046.github.io/SQ_12/DAW.html)**
     A 12-step control voltage generator and monophonic synthesiser paying homage to classic 1970s Japanese electronic instruments, akin to the Korg SQ-10.
@@ -33,5 +36,5 @@ A central hub for my experimental audio tools, sequencers, and MIDI utilities. B
 
 ## Experiments & Miscellaneous
 
-*   **[electric-cafe](https://github.com/josev2046/electric-cafe)**
-    A collection of jotted notes, code experiments, and ongoing sound explorations.
+*   **[Electric-Cafè](https://github.com/josev2046/electric-cafe)**
+    Jotted notes, code experiments, and ongoing sound explorations.

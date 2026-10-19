@@ -6,6 +6,9 @@ A central hub for my experimental audio tools, sequencers, and MIDI utilities. B
 
 ## Sequencers & Synthesisers
 
+*   **[AV-20](https://github.com/josev2046/Analogue-Vocoder-Emulator)** | **[Live Environment](https://josev2046.github.io/Analogue-Vocoder-Emulator/)**
+    A 20-band analogue vocoder emulator built entirely on the native Web Audio API. Modelled on the late-1970s Korg VC-10, it features a polyphonic carrier synth, a 20-band envelope-following filter bank, and built-in WAV recording.
+
 *   **[VW-DS10](https://github.com/josev2046/VW-DS10)** | **[Live DAW Environment](https://josev2046.github.io/VW-DS10/)**
     A dual-oscillator subtractive synthesiser and 4-part drum machine paying homage to the legendary KORG DS-10. It features a fully modular patch bay, an X/Y Kaoss performance pad, and phase-locked stem exporting.
 
